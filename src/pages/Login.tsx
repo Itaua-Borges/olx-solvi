@@ -48,7 +48,7 @@ export default function Login({ onLogin }: LoginProps) {
         {/* Top: logo + internal badge */}
         <div className="relative z-10 p-12">
           <div className="flex items-center gap-3 mb-3">
-            <img src="/images/logo-solvi.png" alt="Logo Solví" className="w-40 h-24 object-contain rounded-xl bg-white" />
+            <img src="/images/logo-solvi.svg" alt="Logo Solví" className="w-40 h-24 object-contain rounded-xl bg-white" />
             <div>
               <div
                 className="font-bold text-white"
@@ -124,7 +124,7 @@ export default function Login({ onLogin }: LoginProps) {
           {/* Mobile header */}
           <div className="flex flex-col items-center mb-8 lg:hidden gap-2">
             <div className="flex items-center gap-2.5">
-              <img src="/images/logo-solvi.png" alt="Logo Solví" className="w-36 h-20 object-contain rounded-xl bg-white" />
+              <img src="/images/logo-solvi.svg" alt="Logo Solví" className="w-36 h-20 object-contain rounded-xl bg-white" />
               <div>
                 <div style={{ fontFamily: "'Outfit', sans-serif", fontSize: 18, fontWeight: 700, color: "#0f2550" }}>
                   OLX Solví

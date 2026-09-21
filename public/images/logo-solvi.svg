@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 450" role="img" aria-labelledby="title desc">
+  <title id="title">Solvi - Soluções para a vida</title>
+  <desc id="desc">Logo verde da Solvi com uma folha dentro da letra O</desc>
+  <rect width="680" height="450" fill="#fff"/>
+  <g fill="#0f6b43">
+    <text x="70" y="230" font-family="Arial, sans-serif" font-size="210" font-weight="700" letter-spacing="-12">S</text>
+    <circle cx="270" cy="175" r="82"/>
+    <text x="350" y="230" font-family="Arial, sans-serif" font-size="210" font-weight="700" letter-spacing="-12">lví</text>
+    <text x="205" y="330" font-family="Arial, sans-serif" font-size="38" font-weight="600">Soluções para a vida</text>
+  </g>
+  <path d="M314 111c-57 16-88 48-95 86-5 28 4 49 22 62 10-28 25-54 45-76 15-17 30-37 28-72Z" fill="#fff"/>
+  <path d="M239 260c13-35 29-65 49-91 13-17 28-33 44-48-14 34-29 65-47 91-14 21-29 37-46 48Z" fill="#0f6b43"/>
+</svg>

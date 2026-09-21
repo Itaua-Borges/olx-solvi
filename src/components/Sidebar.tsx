@@ -140,7 +140,7 @@ export default function Sidebar({ currentPage, navigate, isOpen, onClose }: Side
         {/* Logo */}
         <div className="px-4 py-4 border-b shrink-0" style={{ borderColor: "rgba(255,255,255,0.08)" }}>
           <div className="flex items-center gap-2.5">
-            <img src="/images/logo-solvi.png" alt="Logo Solví" className="w-32 h-16 object-contain rounded-lg bg-white shrink-0" />
+            <img src="/images/logo-solvi.svg" alt="Logo Solví" className="w-32 h-16 object-contain rounded-lg bg-white shrink-0" />
             <div className="flex-1 min-w-0">
               <div className="font-bold leading-tight truncate" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 14, color: "#fff" }}>
                 OLX Solví
