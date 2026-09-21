@@ -1,0 +1,11 @@
+{
+  "title": "OLX Solví",
+  "description": "Marketplace interno para compartilhar, vender e emprestar materiais entre as unidades do Grupo Solví.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
